@@ -23,3 +23,9 @@ From the Above techniques, We Use Credential Harvesting By Phishing attacks.
 Use deceptive techniques to trick individuals into revealing sensitive information, such as login credentials, financial details, or personal data. It is one of the most common and effective forms of social engineering.
 By Capture (Data Theft ): 
 The victim either enters sensitive information on a fake website controlled by the attacker or downloads malware that harvests their data.
+
+First, you'll need to set up all the required software to do the attack.
+Second, The Attack Fun part.  
+
+Feel free to check the repositories.
+
