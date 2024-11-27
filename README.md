@@ -27,5 +27,5 @@ The victim either enters sensitive information on a fake website controlled by t
 First, you'll need to set up all the required software to do the attack.
 Second, The Attack Fun part.  
 
-Feel free to check the repositories.
+Feel free to check the files.
 
